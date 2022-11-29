@@ -1,5 +1,5 @@
 # Maven Pizzas 2
-Predicción semanal de ingredientes en base a datos con datos sucios de una pizzería de 2016
+Predicción semanal de ingredientes en base a datos con datos sucios de una pizzería de 2016. 
 Predicción realizada con python 3.9.7.
 ## Funcionamiento
 A continuación se explicarán los pasos necesarios para ejecutar correctamente el programa.
