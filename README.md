@@ -13,9 +13,9 @@ O mediante esta forma:
 pip install -r requirements.txt
 ```
 ### Archivos
-Todos los archivos aportados han de estar en el mismo directorio. El archivo a ejectutar es pizzas1.py de esta forma:
+Todos los archivos aportados han de estar en el mismo directorio. El archivo a ejectutar es pizzas2.py de esta forma:
 ```
-python pizzas1.py
+python pizzas2.py
 ```
 ## Output
 Hay dos archivos csv de salida. Uno (prediccion_semanal.csv) con la predicción de ingredientes y el otro (analisis_nulls.csv) con la tipología de datos y el número de Nans y Nulls.
